@@ -1,12 +1,8 @@
 # ---------------------------------------------------------------
-#  Project: POP3 Authentication Automation
-#  Author: Roldan
+#  Project: Hash Scan Automation
+#  Author: Roldan S. Lobitaña Jr
+#  THM ID: https://tryhackme.com/p/ROLDAN.S.LOBITANA.JR
 #  Copyright (c) 2026
-#
-#  Description:
-#      This script demonstrates how to automate POP3 authentication
-#      for testing and educational purposes. It is intended ONLY for
-#      use on systems you own or have explicit, written permission to test.
 #
 #  Legal Disclaimer:
 #      This script is provided strictly for lawful, authorized security
@@ -105,3 +101,4 @@ def main():
 if __name__ == "__main__":
 
 	main()
+
